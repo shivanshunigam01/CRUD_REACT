@@ -1,0 +1,7 @@
+.custom-button {
+    color: white;
+    &:hover {
+      background-color: darkblue;
+    }
+  }
+  
